@@ -4,6 +4,7 @@ Setup Intruction:
 3) npm install
 4) npm start
 
+
 1) How did you decide on the technical and architectural choices used as part of your solution?
 -I will study first and go through the system and will identify which part needs to be revised and improve. By then, I will decide as to how I will design the intire project that will be user friendly and will imediatly cought the attention of the user. To top it all I will make remedies that will blend in with it's architectural choices as well as the technical chouncis.
 
