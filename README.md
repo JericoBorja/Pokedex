@@ -1,5 +1,5 @@
 Setup Intruction: 
-1) git clone git@edge2.ajio.net:/home/git/projects/pwp-common.git
+1) git clone git@github.com:JericoBorja/Pokedex.git or download the zip file and extract it.
 2) cd code_challenge
 3) npm install
 4) npm start
